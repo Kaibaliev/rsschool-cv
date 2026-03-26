@@ -24,9 +24,9 @@ Responsibilities: Favorably attracting and attracting new potential customers an
 Responsibilities: Direct negotiations with clients from the initial order acceptance, reflecting customer preferences throughout the furniture design and development process, offering and recommending the most cost-effective options for fulfilling their wishes, and continuing through to full commissioning. Managing and implementing warranty service for supplied goods and services. Designing and modeling cabinet furniture in 3D software, overseeing and fulfilling custom orders, resolving issues related to assembly methods and the use of appropriate hardware, logistics, and other matters.
 
 ## Skills
-- **Languages:** -JavaScript (ES6+)
-- **Technologies:** -React; -Node.js.
-- **Tools:** -Git; -Webpack; -Chrom Dev Tools
+- **Languages:** JavaScript (ES6+)
+- **Technologies:** React, Node.js
+- **Tools:** Git, Webpack, Chrom Dev Tools
 
 ## Educations
 - **Kyrgyz State Technical University** | Process engineer (2014)
